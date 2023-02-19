@@ -6,7 +6,7 @@ public class Main {
         int archersLi = 24;
         int riderLi = 46;
 
-        int warriorMin = 9;
+       int warriorMin = 9;
         int archersMin = 35;
         int riderMin = 12;
 
